@@ -1,6 +1,6 @@
-# Personal-Portfolio-Prasam-Jain
+# Personal-Portfolio
 
-## :hammer_and_wrench: Installation:
+## Installation:
     1. Cloning repository.
           git clone <repo link> or locally download zip folder.
           
