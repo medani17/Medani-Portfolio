@@ -29,14 +29,11 @@ export const SKILLS = [
   { name: "CSS", initialRating: 4 },
   { name: "JavaScript", initialRating: 4 },
   { name: "ReactJs", initialRating: 4 },
-  { name: "MongoDB (Atlas)", initialRating: 3 },
-  { name: "NumPy | Pandas", initialRating: 2 },
-  { name: "Git", initialRating: 4 },
 ];
 
 export const TOOLS = [
   "Visual Studio Code",
   "Git",
   "Codepen",
-  "Jupyter Notebook",
-  "Linux Terminal",]
+  "Atom"
+  ,]

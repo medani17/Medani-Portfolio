@@ -22,9 +22,9 @@ function Home() {
               </h1>
                 <br/>
               <p className="heading-description blockquote">
-              My name's Medani Tripathi. I am from the beetle nut toy city of India "Rewa". <br/>
-              I am currently pursuing a B.Tech in Computer Science from Jaypee University of Engineering and Technology, Guna.
-              Additionally, I am exploring Frontend Web Development and consider myself a quick learner and problem solver.
+              My name is Medani Tripathi. I am from India "Rewa". <br/>
+              I am currently pursuing a B.Tech in Computer Science from Jaypee University of Engineering and Technology, Guna Madhya Pradesh.
+              <br></br>Additionally, I am exploring Frontend Web Development and consider myself a quick learner and problem solver.
               I am eager to seize the opportunity to intern at your company .
              </p>
 
